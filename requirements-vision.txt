@@ -1,0 +1,2 @@
+# Optional denser local landmarks; this is not needed for the offline Haar fallback.
+mediapipe==0.10.21
